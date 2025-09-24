@@ -270,31 +270,3 @@ jobs:
       with:
         name: app-debug
         path: app/build/outputs/apk/debug/app-debug.apk
-```
-
-INSTRUCTIONS:
-
-1. Create new GitHub repository called "spam-shield-app"
-2. Copy this ENTIRE block into a new file called "PROJECT.md"
-3. Commit the file
-4. GitHub will automatically detect the file structure
-5. Go to Actions tab to download the built APK
-
-GitHub will automatically parse the file paths and create the proper folder structure when you commit this! 🚀
-
-Alternative Quick Method:
-
-Use this direct GitHub template link:
-
-```
-https://github.com/new?template=spam-shield-app&name=spam-shield-app
-```
-
-Or create manually:
-
-1. New Repository → "spam-shield-app"
-2. Add file → "Create new file"
-3. Paste this entire block
-4. Commit → Wait for APK build
-
-The APK will be available in the Actions tab after about 5-10 minutes!
