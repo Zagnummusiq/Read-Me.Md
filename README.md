@@ -204,10 +204,6 @@ allprojects {
         mavenCentral()
     }
 }
-
-task clean(type: Delete) {
-    delete rootProject.buildDir
-}
 ```
 
 📁 settings.gradle
