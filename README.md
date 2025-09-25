@@ -1,14 +1,4 @@
-# Read-Me.Md
-App block
-GitHub Auto-Parsing Project Block
-
-Here's the complete project in ONE block that GitHub can automatically parse and separate:
-
-```
-# SPAM SHIELD ANDROID PROJECT
-# COPY THIS ENTIRE BLOCK INTO A NEW GITHUB REPOSITORY
-
-📁 app/build.gradle
+ app/build.gradle
 ```gradle
 plugins {
     id 'com.android.application'
