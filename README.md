@@ -228,9 +228,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
-rootProject.name = "Spam Shield"
-include ':app'
 ```
 
 📁 .github/workflows/android.yml
